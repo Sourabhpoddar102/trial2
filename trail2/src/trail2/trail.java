@@ -6,6 +6,7 @@ public class trail {
 
 		System.out.println("Hey");
 		System.out.println("Byee");
+		System.out.println(9);
 	}
 
 }
